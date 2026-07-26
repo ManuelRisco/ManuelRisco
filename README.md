@@ -207,6 +207,4 @@ fun_fact: "🍕 Construí un MVP de Pizza Hut con Spring Boot + Angular"
 
 <br/><br/>
 
-⭐ **¡Si te gusta lo que hago, dale una estrella a mis repos!** ⭐
-
 </div>
