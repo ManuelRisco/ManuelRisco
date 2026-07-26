@@ -39,7 +39,7 @@
 nombre: "Manuel Fabrizzio Risco Gil"
 ubicación: "Lima, Perú 🇵🇪"
 educación: "Ingeniería de Sistemas Computacionales - UPN (8° ciclo)"
-rol_actual: "Practicante de Asuntos Regulatorios @ Kamary Médical S.A.C."
+rol_actual: "Practicante de Ingeniería de Sistemas Computacionales @ TECNOFILM S.A.C."
 intereses:
   - "Desarrollo Full Stack"
   - "Arquitectura en Capas"
